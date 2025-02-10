@@ -27,3 +27,4 @@ def lambda_handler(event, context):
   }
   
   return response
+  # returns success webpage when triggered
